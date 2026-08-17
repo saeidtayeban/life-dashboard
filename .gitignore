@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+
+# Unrelated local files that happen to live in this folder — not part of the app
+canada-energy CH 1/
+canada-energy CH 2/
+canada-energy CH 3/
+canada-energy CH 4/
